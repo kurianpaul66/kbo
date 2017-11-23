@@ -1,7 +1,47 @@
-#h1 {color: #40FDF7;
+#h1 {color: #EBF5FB;
 text-align: center;
 font-family: serif;
-font-weight: normal;}
+font-size: 42px;
+font-weight: normal;
+position: relative;
+top: 60px;}
 
-h2.head1 {color: #FAFD40;
-font-family: monospace;}
+#rvw {color: #FAFD40;
+position: absolute;
+top: 160px;
+left: 210px;
+font-style: italic;
+font-weight: normal;
+font-size: 35px;}
+
+#clln {color: #FAFD40;
+position: absolute;
+top: 160px;
+left: 360px;
+font-style: italic;
+font-weight: normal;
+font-size: 35px;}
+
+#tr {color: #FAFD40;
+position: absolute;
+top: 160px;
+left: 550px;
+font-style: italic;
+font-weight: normal;
+font-size: 35px;}
+
+#tl {color: #FAFD40;
+position: absolute;
+font-weight: normal;
+top: 160px;
+left: 770px;
+font-style: italic;
+font-size: 35px;}
+
+#tg {color: #FAFD40;
+position: absolute;
+font-weight: normal;
+top: 160px;
+left: 1000px;
+font-style: italic;
+font-size: 35px;}
