@@ -1,1 +1,7 @@
-#h1 {color: #40FDF7;}
+#h1 {color: #40FDF7;
+text-align: center;
+font-family: serif;
+font-weight: normal;}
+
+h2.head1 {color: #FAFD40;
+font-family: monospace;}
