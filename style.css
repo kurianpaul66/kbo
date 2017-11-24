@@ -19,7 +19,7 @@ top: 30%;
 left: 12%;
 font-style: italic;
 font-weight: normal;
-font-size: xx-large;}
+font-size: 2em;}
 
 #clln {
 position: absolute;
@@ -27,7 +27,7 @@ top: 30%;
 left: 25%;
 font-style: italic;
 font-weight: normal;
-font-size: xx-large;}
+font-size: 2em;}
 
 #tr {
 position: absolute;
@@ -35,7 +35,7 @@ top: 30%;
 left: 40%;
 font-style: italic;
 font-weight: normal;
-font-size: xx-large;}
+font-size: 2em;}
 
 #tl {
 position: absolute;
@@ -43,7 +43,7 @@ font-weight: normal;
 top: 30%;
 left: 58%;
 font-style: italic;
-font-size: xx-large;}
+font-size: 2em;}
 
 #tg {
 position: absolute;
@@ -51,4 +51,4 @@ font-weight: normal;
 top: 30%;
 left: 75%;
 font-style: italic;
-font-size: xx-large;}
+font-size: 2em;}
