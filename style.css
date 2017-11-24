@@ -15,24 +15,24 @@ a {
 
 #rvw {
 position: absolute;
-top: 160px;
-left: 210px;
+top: 30%;
+left: 12%;
 font-style: italic;
 font-weight: normal;
 font-size: 35px;}
 
 #clln {
 position: absolute;
-top: 160px;
-left: 360px;
+top: 30%;
+left: 25%;
 font-style: italic;
 font-weight: normal;
 font-size: 35px;}
 
 #tr {
 position: absolute;
-top: 160px;
-left: 550px;
+top: 30%;
+left: 40%;
 font-style: italic;
 font-weight: normal;
 font-size: 35px;}
@@ -40,15 +40,15 @@ font-size: 35px;}
 #tl {
 position: absolute;
 font-weight: normal;
-top: 160px;
-left: 770px;
+top: 30%;
+left: 58%;
 font-style: italic;
 font-size: 35px;}
 
 #tg {
 position: absolute;
 font-weight: normal;
-top: 160px;
-left: 1000px;
+top: 30%;
+left: 75%;
 font-style: italic;
 font-size: 35px;}
