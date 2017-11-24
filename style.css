@@ -1,4 +1,4 @@
-#h1 {color: #EBF5FB;
+#h1 {color: #0A06F4;
 text-align: center;
 font-family: serif;
 font-size: 42px;
@@ -6,7 +6,14 @@ font-weight: normal;
 position: relative;
 top: 60px;}
 
-#rvw {color: #FAFD40;
+a:hover {
+    color: red;
+}
+
+a {
+	text-decoration: none;}
+
+#rvw {
 position: absolute;
 top: 160px;
 left: 210px;
@@ -14,7 +21,7 @@ font-style: italic;
 font-weight: normal;
 font-size: 35px;}
 
-#clln {color: #FAFD40;
+#clln {
 position: absolute;
 top: 160px;
 left: 360px;
@@ -22,7 +29,7 @@ font-style: italic;
 font-weight: normal;
 font-size: 35px;}
 
-#tr {color: #FAFD40;
+#tr {
 position: absolute;
 top: 160px;
 left: 550px;
@@ -30,7 +37,7 @@ font-style: italic;
 font-weight: normal;
 font-size: 35px;}
 
-#tl {color: #FAFD40;
+#tl {
 position: absolute;
 font-weight: normal;
 top: 160px;
@@ -38,7 +45,7 @@ left: 770px;
 font-style: italic;
 font-size: 35px;}
 
-#tg {color: #FAFD40;
+#tg {
 position: absolute;
 font-weight: normal;
 top: 160px;
